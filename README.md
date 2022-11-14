@@ -1,6 +1,6 @@
-# Frontend Mentor - Notifications page solution
+# Frontend Mentor - News Homepage solution
 
-This is a solution to the [Notifications page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [News Homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -18,12 +18,11 @@ This is a solution to the [Notifications page challenge on Frontend Mentor](http
 
 ### The challenge
 
-Users should be able to:
+Your users should be able to:
 
-- Distinguish between "unread" and "read" notifications
-- Select "Mark all as read" to toggle the visual state of the unread notifications and set the number of unread messages to zero
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
+- Bonus: Toggle the mobile menu (requires some JavaScript)
 
 ### Screenshot
 
@@ -31,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC/hub/notifications-page-ci5c2g_OW-)
-- Live Site URL: (https://johandev115.github.io/notifications-page/)
+- Solution URL: (https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl/hub/news-homepage-O8fWdbL7yi)
+- Live Site URL: (https://johandev115.github.io/news-homepage/)
 
 ## My process
 
